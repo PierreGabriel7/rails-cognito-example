@@ -1,6 +1,6 @@
 class HomeController < ApplicationController
     def index
-        $test="Nice2x"
+        $test="Nice4x"
     end
     
 end

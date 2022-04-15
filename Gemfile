@@ -7,6 +7,8 @@ gem 'activerecord-session_store', '~> 2.0.0'
 gem 'excon', '~> 0.71.0'
 gem 'json-jwt', '~> 1.11.0'
 
+gem "figaro"
+
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.2.4'
 # Use Puma as the app server
